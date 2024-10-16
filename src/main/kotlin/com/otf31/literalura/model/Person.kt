@@ -20,7 +20,7 @@ class Person(person: PersonData) {
   var booksAsTranslator = mutableSetOf<Book>()
 
   init {
-    birthYear = person.birthYear
+    this.birthYear = person.birthYear
     deathYear = person.deathYear
     name = person.name
   }

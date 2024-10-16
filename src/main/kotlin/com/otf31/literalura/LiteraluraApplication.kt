@@ -1,7 +1,6 @@
 package com.otf31.literalura
 
 import com.otf31.literalura.repository.BookRepository
-import com.otf31.literalura.service.ClientAPI
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.CommandLineRunner
 import org.springframework.boot.autoconfigure.SpringBootApplication
